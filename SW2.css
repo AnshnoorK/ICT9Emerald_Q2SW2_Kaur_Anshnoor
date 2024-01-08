@@ -1,0 +1,24 @@
+#logo {text-align: center;}
+
+body { background-color: lightsalmon; 
+  background-image: url("jolibee bg.jpg");
+}
+
+table {background-color:beige; margin-left: auto; margin-right: auto;border: solid; border-color: darkred; color: darkred;  padding: 15px;}
+
+th {font-size: 25px; background-color:crimson; letter-spacing: 2px; font-family: sans-serif;}
+
+td {padding: 5px; background-color: floralwhite;}
+
+tr {text-align: center}
+
+#reference {
+background-color: beige;
+color: darkred; 
+padding: 5px;
+width: 40%; 
+border: solid;
+border-color: brown;
+display: inline-block;
+text-align: center;}
+
